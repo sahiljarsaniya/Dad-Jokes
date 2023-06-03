@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: cornflowerblue;
+}
+.container{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 1rem;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 25rem;
+    height: 15rem;
+    margin: auto;
+    position: relative;
+    top: 10rem;
+    text-align: center; 
+}
+h3{
+    margin: 1rem;
+}
+.jokes{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 50%;
+    
+    /* margin: 2rem; */
+}
+.btn{
+    margin: 2.4rem;
+    background-color: antiquewhite;
+    border-radius: 1rem;
+    padding: 3px;
+}
+.btn:hover{
+    background-color: aquamarine;
+    color: black;
+    border-color: aqua;
+}
+
